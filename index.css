@@ -1,0 +1,24 @@
+body {
+     background-image: url("background.jpg");
+        }
+.center {
+    text-align: center;
+ }
+ table {
+ border-spacing: 0px;
+}
+tr:nth-child(odd) {
+    background-color: #c4d8fd;
+}
+td{
+    padding:0 260px 0 260px;
+}
+#profile ul {
+  columns: 2;
+  -webkit-coulumns: 2;
+  -moz-columns: 2;
+}
+.quoteadd{
+color: Blue;
+  font-family: cursive;
+}
